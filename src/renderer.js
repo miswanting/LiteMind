@@ -4,8 +4,5 @@ Vue.component('test', {
 })
 var vm = new Vue({
     el: '#root',
-    data: {
-        msg: '123'
-    },
     template: '<test></test>'
 })
