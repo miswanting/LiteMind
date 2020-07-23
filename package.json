@@ -1,0 +1,30 @@
+{
+  "name": "lite-mind",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "debug": "npx electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miswanting/LiteMind.git"
+  },
+  "author": "Miswanting",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/miswanting/LiteMind/issues"
+  },
+  "homepage": "https://github.com/miswanting/LiteMind#readme",
+  "devDependencies": {
+    "electron": "latest",
+    "electron-builder": "latest",
+    "electron-devtools-installer": "latest"
+  },
+  "dependencies": {
+    "electron-is-dev": "latest",
+    "normalize.css": "latest",
+    "vue": "latest"
+  }
+}
