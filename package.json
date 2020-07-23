@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/main.js",
   "scripts": {
+    "setup": "npm i",
     "debug": "npx electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
